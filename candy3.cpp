@@ -1,3 +1,4 @@
+//code to solve the candy3 problem, doing as I learnt
 #include<bits/stdc++.h>
 #define ll long long
 using namespace std;
@@ -5,7 +6,7 @@ int main()
 {
     ios::sync_with_stdio(0);
     cin.tie(0);
-    
+
     int t,n;ll sum,curval;cin>>t;
     for(int i(0);i<t;i++)
     {
